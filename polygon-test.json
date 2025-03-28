@@ -88,14 +88,9 @@
       "address": "0x5b5e3C77688E68F76ad9694C8a9688DE09ab71CD"
      },
      {
-      "accountName": "deployer",
-      "balance": "0",
-      "nonce": "8",
-      "address": "0x229A5bDBb09d8555f9214F7a6784804999BA4E0D"
-     },
-     {
       "accountName": "preMintAccount",
       "balance": "1000000000000000000",
+      "nonce": "8",
       "address": "0x229A5bDBb09d8555f9214F7a6784804999BA4E0D"
      }
     ]
